@@ -4,4 +4,4 @@
 
 아무것도 안하는 평범한 잉여학생
 
-!()[/rick-roll.gif]
+!(rickroll)[/rick-roll.gif]
